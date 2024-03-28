@@ -1,4 +1,5 @@
-### Building & sometimes selling. Usually working with Go + Python. now also Rust. cloud, data, and product, buzz word buzz word buzzword
+### Building & sometimes selling @ Wayspire and our multiverse of teams (@Arcvale, @Sitebolts, @LeneticLabs. Usually working with Go + Python. now also Rust. cloud, data, and product, buzz word buzz word buzzword
+
 
 <!--
 **dverasc/dverasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
