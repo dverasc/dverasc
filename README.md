@@ -1,4 +1,4 @@
-### Building & sometimes selling @ Wayspire and our multiverse of teams (@Arcvale, @Sitebolts, @LeneticLabs) + @Privity. Usually working with Go + Python. now also Rust. cloud, data, and product, buzz word buzz word buzzword
+### Building & sometimes selling @ Wayspire and our multiverse of teams (@Arcvale, @Sitebolts, @LeneticLabs). Usually working with Go + Python. now also Rust. cloud, data, and product, buzz word buzz word buzzword
 
 
 <!--
